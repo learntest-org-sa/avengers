@@ -3,3 +3,5 @@
 - Dr. Doom
 
 - Red skull
+
+- Loki
