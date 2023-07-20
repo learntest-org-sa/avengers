@@ -4,4 +4,4 @@
 
 - Red skull
 
-- Loki
+- Magneto
